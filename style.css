@@ -1,0 +1,9 @@
+.cardSpec {
+    width: 20rem;
+    box-shadow: 1px;
+    height: 25rem;
+}
+
+.cardImage {
+    height: 50%;
+}
